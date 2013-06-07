@@ -2,7 +2,12 @@
 ###(NodeJS)/Express/MongoDB/Passport Bootstrap###
 
 This is a bootstrap project that I use whenever I want to spin up a node app with authentication and a database in a very short amount of time. If you like it or have feedback, feel free to [tweet me @tomdotjs](https://twitter.com/tomdotjs)  
-It is build with the following stack:
+
+###Installation###
+
+Simply clone this repo, then: npm install
+
+###Stack###
 
 * NodeJS - Hotness
 * MongoDB - NoSQL Database
